@@ -13,7 +13,8 @@ header{
 
 h1 h2{
 	font-family: 'Press Start 2P', cursive;
-}
+
+/*header styles*/
 
 header h1{
 	color: white;
@@ -75,5 +76,5 @@ footer a:hover{
 p.caption{
 	color: #999999;
 	font-style: italic;
-	margin-top: -1px;
+	margin-top: 0px;
 }
